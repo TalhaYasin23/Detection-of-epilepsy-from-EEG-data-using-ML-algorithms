@@ -3,5 +3,7 @@ Developed and tested different algorithms that classify patients into two groups
 # Description
 A Machine learning approach was implemented to run different classifiers for separating several patients into either healthy or epileptic class on the basis of their EEG data. The models were trained through supervised learning and the one with the highest accuracy was selected as ideal.
 # Features
+- Trains the classifier on the given data-set
+- Calculates the accuracy of each classifier
 # Screenshots
 # Installation setup

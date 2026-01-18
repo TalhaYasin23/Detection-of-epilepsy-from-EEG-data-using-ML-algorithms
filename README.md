@@ -5,5 +5,7 @@ A Machine learning approach was implemented to run different classifiers for sep
 # Features
 - Trains the classifier on the given data-set
 - Calculates the accuracy of each classifier
+- Visualizes the classified data in plots
 # Screenshots
+
 # Installation setup
